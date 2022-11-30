@@ -1,0 +1,35 @@
+.main{
+	border-style: solid;
+	margin: 20px;
+	padding: 10px;
+	border-width: 2px;
+	width: 50%;
+	border-radius: 10px;
+	/*border-color: pink;*/
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #ff6600;
+	color:  white;
+}
+*{
+	font-size: 22px;
+}
+#btn{
+	border-radius: 7px;
+	padding: 10px;
+	font-size: 15px;
+}
+.start{
+	font-size: 40px;
+}
+select{
+	padding: 10px;
+	font-size: 15px;
+}
+input[type=text]{
+	  width: 100%;
+	  border: 1px solid #ccc;
+	  border-radius: 4px;
+	  box-sizing: border-box;
+}
